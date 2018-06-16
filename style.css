@@ -1,0 +1,9 @@
+.bkgcontainer {
+  background-image: url("img.jpg");
+  background-color: black;
+  background-position: center;
+  width: 100%;
+  height: 1000px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
